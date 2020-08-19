@@ -27,7 +27,7 @@ class _LoadingState extends State<Loading> {
   @override
   void initState() {
     super.initState();
-    setupTime();// bs ye change kiya kl ye likha nhi tha
+    setupTime();
   }
 
   @override
